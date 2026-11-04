@@ -71,9 +71,3 @@ node --experimental-transform-types --test lib/plant-validation.test.mjs
 ```
 
 See [web documentation](web/README.md) for architecture, source handling, and deployment notes. Preserve applied migrations and the existing Site identity when updating this app.
-
-## Validation
-
-The initial release passed 27 Python tests, nine web validation/CSV tests, TypeScript checking, a production build, authenticated HTTP/MCP integration checks, live Europe PMC lookup and full-text retrieval, and browser checks of the library/discovery/review interfaces.
-
-Open-access full text is not available for every article. Missing or failed source retrieval is reported explicitly; papers with unresolved sampling designs remain pending. This is a curated research tool, not a guarantee of exhaustive literature coverage or automatic scientific correctness.
