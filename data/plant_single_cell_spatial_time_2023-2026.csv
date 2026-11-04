@@ -1,0 +1,81 @@
+data_type,year,title,PMID
+spatial,2023,High-resolution anatomical and spatial transcriptome analyses reveal two types of meristematic cell pools within the secondary vascular tissue of poplar stem,36895162
+time,2023,Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root,36996230
+"spatial, time",2023,Integrated single-nucleus and spatial transcriptomics captures transitional states in soybean nodule maturation,37055554
+spatial,2023,Multiplexed single-cell 3D spatial gene expression analysis in plant tissue using PHYTOMap,37308583
+"spatial, time",2023,The maturation and aging trajectory of Marchantia polymorpha at single-cell resolution,37321217
+time,2023,Single-cell resolution analysis reveals the preparation for reprogramming the fate of stem cell niche in cotton lateral meristem,37626404
+time,2023,Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics,37741284
+time,2023,Single-nucleus transcriptomes reveal spatiotemporal symbiotic perception and early response in Medicago,37749242
+time,2023,Time series single-cell transcriptional atlases reveal cell fate differentiation driven by light in Arabidopsis seedlings,37903986
+time,2023,Single-cell analysis identifies genes facilitating rhizobium infection in Lotus japonicus,37935666
+time,2024,Decoding the gene regulatory network of endosperm differentiation in maize,38167709
+time,2024,The single-cell transcriptome program of nodule development cellular lineages in Medicago truncatula,38329875
+spatial,2024,Spatial co-transcriptomics reveals discrete stages of the arbuscular mycorrhizal symbiosis,38589485
+"spatial, time",2024,Single-cell and spatial RNA sequencing reveal the spatiotemporal trajectories of fruit senescence,38600080
+time,2024,A single-cell transcriptome atlas reveals the trajectory of early cell fate transition during callus induction in Arabidopsis,38720464
+spatial,2024,A spatial transcriptome map of the developing maize ear,38745100
+time,2024,Single-nucleus RNA and ATAC sequencing analyses provide molecular insights into early pod development of peanut fruit,38794796
+"spatial, time",2024,Single-cell transcriptome atlases of soybean root and mature nodule reveal new regulatory programs that control the nodulation process,38845198
+"spatial, time",2024,Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination,38848718
+"spatial, time",2024,Spatiotemporal transcriptome atlas reveals gene regulatory patterns during the organogenesis of the rapid growing bamboo shoots,39140996
+time,2024,Establishment of single-cell transcriptional states during seed germination,39256563
+time,2024,Exaptation of ancestral cell-identity networks enables C4 photosynthesis,39567684
+time,2024,Integrating single nuclei and bulk RNA sequencing in rice shoot apical meristems uncovers candidate early floral transition gene networks,39609296
+"spatial, time",2024,A spatially resolved multi-omic single-cell atlas of soybean development,39742806
+"spatial, time",2025,A rare PRIMER cell state in plant immunity,39779856
+spatial,2025,Multiplexed transcriptomic analyzes of the plant embryonic hourglass,39824817
+"spatial, time",2025,Spatiotemporal transcriptome and metabolome landscapes of cotton fiber during initiation and early development,39833150
+"spatial, time",2025,Spatiotemporal transcriptome and metabolome landscapes of cotton somatic embryos,39833155
+spatial,2025,A single-cell and spatial wheat root atlas with cross-species annotations delineates conserved tissue-specific marker genes and regulators,39893633
+"spatial, time",2025,Spatial transcriptome and single-cell RNA sequencing reveal the molecular basis of cotton fiber initiation development,40084712
+"spatial, time",2025,Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice Leaf Cells to Magnaporthe oryzae Infection,40123572
+time,2025,An Arabidopsis single-nucleus atlas decodes leaf senescence and nutrient allocation,40220755
+time,2025,Resolving floral development dynamics using genome and single-cell temporal transcriptome of Dendrobium devonianum,40238860
+spatial,2025,Single-cell transcriptomics reveal how root tissues adapt to soil stress,40307555
+time,2025,48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis,40324996
+time,2025,Time-resolved single-cell atlas identifies the spatiotemporal transcription dynamics in vernalization response in Brassica rapa,40378040
+spatial,2025,Single-cell and spatial multiomics identifies heterogeneous xylem development driven by mechanical stress in Populus,40701155
+time,2025,STEMIN transcription factor drives selective chromatin remodeling for gene activation within a relaxed chromatin during reprogramming in the moss Physcomitrium patens,40749217
+time,2025,Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway plays an important role in leaf senescence in tobacco,40764913
+"spatial, time",2025,"A single-cell, spatial transcriptomic atlas of the Arabidopsis life cycle",40830271
+time,2025,Single-nucleus RNA-sequencing reveals the cellular programs driving nematode-induced giant cell formation in tomato,41209832
+"spatial, time",2025,Drought recovery in plants triggers a cell-state-specific immune activation,40883303
+time,2025,Single-nucleus multi-omics reveals the impact of drought stress on the development of soybean endosperm,40886050
+"spatial, time",2025,Spatial and single-cell transcriptomics capture two distinct cell states in soybean defense response to Phakopsora pachyrhizi infection,41019740
+time,2025,Single-cell RNA sequencing reveals developmental trajectories and environmental regulation of callus formation in Arabidopsis,40938467
+"spatial, time",2025,Time-resolved reprogramming of single somatic cells into totipotent states during plant regeneration,40961939
+spatial,2025,Single-cell and spatial omics reveal progressive loss of xylem developmental complexity across seed plants,41109686
+"spatial, time",2025,Spatial and single-cell expression analyses reveal complex expression domains in early wheat spike development,41084016
+time,2025,The role of FRUITFULL controlling cell cycle during early flower development revealed by time-series snRNA-seq experiments,41146337
+"spatial, time",2025,Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution,41388990
+"spatial, time",2025,Single-nucleus and spatial transcriptomics reveal the cell populations of intercalary meristems in bamboo,41410774
+"spatial, time",2025,A single-cell-resolution spatial transcriptomic atlas decodes wheat spike development and yield potential,41437568
+"spatial, time",2026,Host microenvironment in potato-Phytophthora infestans interaction revealed by single-cell spatiotemporal transcriptome,41495460
+spatial,2026,Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Development,41493197
+spatial,2026,Imputation integrates single-cell and spatial gene expression data to resolve transcriptional networks in barley shoot meristem development,41501532
+time,2026,Single-cell transcriptomic analysis of plant quiescent center by third-generation sequencing reveals developmental trajectories,41664205
+time,2026,Cell fate acquisition at a de novo developmental boundary in the maize leaf,41746728
+time,2026,A single-nucleus transcriptome atlas of soybean anthers,41831752
+"spatial, time",2026,Integrated Single-Cell and Spatial Transcriptomics Reveal Cell-Type-Specific Immune Regulatory Networks in Maize Responding to Southern Corn Rust,41837846
+time,2026,Dynamic and cell-type specific transcriptional reprogramming underlies the floral transition in the maize shoot apical meristem,41851888
+time,2026,Stress drives plasticity in leaf ageing transcriptional dynamics in Arabidopsis thaliana,41857406
+spatial,2026,A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the regulation of leaf polarity and cuticle deposition,41866110
+time,2026,A single-cell transcriptome atlas reveals the transcriptionally earliest state in rice callus,41882557
+time,2026,Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration,41889170
+"spatial, time",2026,Single-cell and spatial transcriptomics reveals the spatiotemporal trajectory of the small peptide TAP4 in delaying postharvest fruit senescence,41947460
+spatial,2026,Single-cell and spatial transcriptomics in Phragmites australis reveal the association of B chromosomes with plant invasiveness,42021342
+"spatial, time",2026,Laminar patterning transcription factors orchestrate spatial metabolite partitioning in Capsicum fruit,42086737
+spatial,2026,Single-cell and spatial transcriptomics reveal the regulatory continuum from initial substrates to storage compounds during wheat grain development,42160834
+"spatial, time",2026,Super-resolution multimodal spatial transcriptomics reveals an ovoid stem cell niche structuring de novo shoot regeneration,42141722
+time,2026,A transcriptional atlas of early Arabidopsis seed development suggests mechanisms for inter-tissue coordination,42168363
+spatial,2026,Spatial and single-cell transcriptomics uncover brassinosteroid-mediated coordination of sepal elongation in Arabidopsis,42304499
+time,2026,Cell-type specific early perception of nine phytohormones revealed by single-nucleus transcriptomics in Arabidopsis,42669725
+time,2026,A single-nucleus transcriptomic atlas reveals distinct cell identities and key regulators of cellular differentiation during early rice seed development,42605496
+spatial,2026,Single-Cell Transcriptomics Reveals the FA9-VAP Module Regulating Fatty Acid Accumulation in Soybean Seeds,42633702
+spatial,2026,Tangential single-cell spatial transcriptomics resolves early ray lineage trajectory in poplar,42725656
+"spatial, time",2026,A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development,42827106
+time,2026,Single-nucleus transcriptome atlas of Brassica developing seeds provides cellular and molecular insights into embryo abortion in interspecific hybrids,42823797
+"spatial, time",2026,Spatial and single-nucleus transcriptomic profiling reveal polarity and intracellular responses to mitochondrial dysfunction,42848931
+"spatial, time",2026,A spatiotemporal lifecycle atlas decodes spatial coordination in rice,42838048
+"spatial, time",2026,Single-nucleus and spatial transcriptomics reveal dynamic cell differentiation and storage product accumulation in rice endosperm,42933868

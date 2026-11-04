@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/.sites-runtime/
+**/__pycache__/
+**/*.pyc
+**/*.tsbuildinfo
+**/.env*
+**/.dev.vars*
+**/*.pem
+agent/data/
+.DS_Store

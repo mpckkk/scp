@@ -1,0 +1,1330 @@
+[
+  {
+    "pmid": "36895162",
+    "category": "spatial",
+    "species": "Populus",
+    "evidence": "High-resolution anatomy and ST maps poplar vascular meristems; results confirmed by single-cell sequencing and in situ hybridization. Primarily positional developmental gradient",
+    "primary_url": "https://doi.org/10.1016/j.molp.2023.03.005",
+    "title": "High-resolution anatomical and spatial transcriptome analyses reveal two types of meristematic cell pools within the secondary vascular tissue of poplar stem",
+    "first_publication_date": "2023-03-09",
+    "doi": "10.1016/j.molp.2023.03.005",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36895162/",
+    "date": "2023-03-09",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/36895162/",
+      "https://doi.org/10.1016/j.molp.2023.03.005"
+    ],
+    "year": 2023
+  },
+  {
+    "pmid": "36996230",
+    "year": 2023,
+    "first_online": "2023-03-31",
+    "title": "Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root",
+    "tag": "time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "scRNA-seq at six measured times: BRZ depleted control 0 h, followed by BL 0.5, 1, 2, 4, 8 h; 70,223 cells from the BL time experiment",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/36996230/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10119888/"
+    ],
+    "doi": "10.1126/science.adf4721",
+    "category": "time",
+    "date": "2023-03-31",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36996230/"
+  },
+  {
+    "pmid": "37055554",
+    "category": "spatial, time",
+    "species": "Glycine max",
+    "evidence": "snRNA-seq nodules at 12 and 21 days postinfection; matched Stereo-seq",
+    "primary_url": "https://www.nature.com/articles/s41477-023-01387-z",
+    "title": "Integrated single-nucleus and spatial transcriptomics captures transitional states in soybean nodule maturation",
+    "first_publication_date": "2023-04-13",
+    "doi": "10.1038/s41477-023-01387-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37055554/",
+    "date": "2023-04-13",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37055554/",
+      "https://www.nature.com/articles/s41477-023-01387-z"
+    ],
+    "year": 2023
+  },
+  {
+    "pmid": "37308583",
+    "category": "spatial",
+    "species": "Arabidopsis thaliana",
+    "evidence": "PHYTOMap multiplexed FISH at individual-cell 3D resolution; 28 marker genes in roots",
+    "primary_url": "https://www.nature.com/articles/s41477-023-01439-4",
+    "title": "Multiplexed single-cell 3D spatial gene expression analysis in plant tissue using PHYTOMap",
+    "first_publication_date": "2023-06-12",
+    "doi": "10.1038/s41477-023-01439-4",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37308583/",
+    "date": "2023-06-12",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37308583/",
+      "https://www.nature.com/articles/s41477-023-01439-4"
+    ],
+    "year": 2023
+  },
+  {
+    "pmid": "37321217",
+    "category": "spatial, time",
+    "species": "Marchantia polymorpha",
+    "evidence": "scRNA-seq at D0 (dormant gemmae), D1, D3, D6, D11 and D31 after germination. Spatial evidence is bulk RNA-seq from six 1-mm tip-to-base strips of D31 thalli integrated with scRNA-seq and reporters; not a native spatial single-cell assay",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1534580723002472",
+    "date": "2023-06-14",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37321217/",
+      "https://www.sciencedirect.com/science/article/pii/S1534580723002472"
+    ],
+    "title": "The maturation and aging trajectory of Marchantia polymorpha at single-cell resolution",
+    "year": 2023,
+    "doi": "10.1016/j.devcel.2023.05.014",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37321217/"
+  },
+  {
+    "category": "time",
+    "year": 2023,
+    "title": "Single-cell resolution analysis reveals the preparation for reprogramming the fate of stem cell niche in cotton lateral meristem",
+    "pmid": "37626404",
+    "date": "2023-08-25",
+    "species": "Gossypium hirsutum",
+    "evidence": "scRNA-seq hypocotyls 0, 1, 6, 12 h after callus induction, two replicates per time point in two cultivars; full text lines 208, 222",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10463415/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37626404/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10463415/"
+    ],
+    "doi": "10.1186/s13059-023-03032-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37626404/"
+  },
+  {
+    "pmid": "37741284",
+    "year": 2023,
+    "first_online": "2023-09-22",
+    "title": "Cell-type-specific responses to fungal infection in plants revealed by single-cell transcriptomics",
+    "tag": "time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "95,040-cell leaf atlas from Colletotrichum higginsianum infection at 24 and 40 hpi, with corresponding mock samples. Spatial response described through reporter/in situ validation, not native transcriptome-wide ST",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37741284/",
+      "https://ueaeprints.uea.ac.uk/id/eprint/93104/1/Tang_etal_2023_CellHostAndMicrobe.pdf"
+    ],
+    "doi": "10.1016/j.chom.2023.08.019",
+    "category": "time",
+    "date": "2023-09-22",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37741284/"
+  },
+  {
+    "pmid": "37749242",
+    "year": 2023,
+    "first_online": "2023-09-25",
+    "title": "Single-nucleus transcriptomes reveal spatiotemporal symbiotic perception and early response in Medicago",
+    "tag": "time",
+    "species": "Medicago truncatula",
+    "evidence": "snRNA-seq after 30 min, 6 h, 24 h Nod factor treatment, with control; 25,276 nuclei. Spatial in title means cell-type specificity; no native ST established",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37749242/",
+      "https://www.nature.com/articles/s41477-023-01524-8"
+    ],
+    "doi": "10.1038/s41477-023-01524-8",
+    "category": "time",
+    "date": "2023-09-25",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37749242/"
+  },
+  {
+    "category": "time",
+    "year": 2023,
+    "title": "Time series single-cell transcriptional atlases reveal cell fate differentiation driven by light in Arabidopsis seedlings",
+    "pmid": "37903986",
+    "date": "2023-10-30",
+    "species": "Arabidopsis thaliana",
+    "evidence": "scRNA-seq etiolated, de-etiolating, and light-grown seedlings; figure1 time-series root and shoot atlases across light exposure times",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37903986/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37903986/"
+    ],
+    "doi": "10.1038/s41477-023-01544-4",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37903986/"
+  },
+  {
+    "pmid": "37935666",
+    "year": 2023,
+    "first_online": "2023-11-07",
+    "title": "Single-cell analysis identifies genes facilitating rhizobium infection in Lotus japonicus",
+    "tag": "time",
+    "species": "Lotus japonicus",
+    "evidence": "Independent scRNA datasets at 5 and 10 dpi with Mesorhizobium loti and matched controls. 10 dpi sampled whole roots; 5 dpi sampled susceptible zones and included cyclops mutant. Real ages but tissue scope differs between ages",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37935666/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10630511/"
+    ],
+    "doi": "10.1038/s41467-023-42911-1",
+    "category": "time",
+    "date": "2023-11-07",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37935666/"
+  },
+  {
+    "pmid": "38167709",
+    "year": 2024,
+    "first_online": "2024-01-02",
+    "title": "Decoding the gene regulatory network of endosperm differentiation in maize",
+    "tag": "time",
+    "species": "Zea mays",
+    "evidence": "scRNA 17,022 cells from endosperm at 6 and 7 days after pollination; genuine sampled age comparison and cluster-specific temporal changes, plus DAP-seq",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38167709/",
+      "https://www.nature.com/articles/s41467-023-44369-7",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10762121/"
+    ],
+    "doi": "10.1038/s41467-023-44369-7",
+    "category": "time",
+    "date": "2024-01-02",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38167709/"
+  },
+  {
+    "pmid": "38329875",
+    "year": 2024,
+    "first_online": "2024-02-07",
+    "title": "The single-cell transcriptome program of nodule development cellular lineages in Medicago truncatula",
+    "tag": "time",
+    "species": "Medicago truncatula",
+    "evidence": "snRNA at 0, 24, 48, 96 h after S. meliloti inoculation; WT Jemalong A17 and hypernodulating sunn-4; integrated 16,211 nuclei. GEO explicitly gives time series",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38329875/",
+      "https://www.cell.com/article/S2211124724000755/pdf",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224539"
+    ],
+    "doi": "10.1016/j.celrep.2024.113747",
+    "category": "time",
+    "date": "2024-02-07",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38329875/"
+  },
+  {
+    "pmid": "38589485",
+    "category": "spatial",
+    "species": "Medicago truncatula",
+    "evidence": "snRNA-seq plus 10x Visium of mycorrhizal roots. Spatial sample at 28 dpi; asynchronous colonization stages are not a measured time course",
+    "primary_url": "https://www.nature.com/articles/s41477-024-01666-3.pdf",
+    "title": "Spatial co-transcriptomics reveals discrete stages of the arbuscular mycorrhizal symbiosis",
+    "first_publication_date": "2024-04-08",
+    "doi": "10.1038/s41477-024-01666-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38589485/",
+    "date": "2024-04-08",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38589485/",
+      "https://www.nature.com/articles/s41477-024-01666-3.pdf"
+    ],
+    "year": 2024
+  },
+  {
+    "pmid": "38600080",
+    "category": "spatial, time",
+    "species": "Hylocereus undatus",
+    "evidence": "scRNA-seq compares freshly harvested mature fruit with senescent fruit after approximately nine days of storage; 10x Visium of mature pericarp supplies spatial annotation. A sparse storage-age comparison, not a dense time series.",
+    "primary_url": "https://www.nature.com/articles/s41467-024-47329-x",
+    "title": "Single-cell and spatial RNA sequencing reveal the spatiotemporal trajectories of fruit senescence",
+    "first_publication_date": "2024-04-10",
+    "doi": "10.1038/s41467-024-47329-x",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38600080/",
+    "date": "2024-04-10",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38600080/",
+      "https://www.nature.com/articles/s41467-024-47329-x"
+    ],
+    "year": 2024
+  },
+  {
+    "category": "time",
+    "year": 2024,
+    "title": "A single-cell transcriptome atlas reveals the trajectory of early cell fate transition during callus induction in Arabidopsis",
+    "pmid": "38720464",
+    "date": "2024-05-07",
+    "species": "Arabidopsis thaliana",
+    "evidence": "scRNA-seq root explants after 0, 1, 4 days in callus induction medium; abstract",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38720464/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38720464/"
+    ],
+    "doi": "10.1016/j.xplc.2024.100941",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38720464/"
+  },
+  {
+    "pmid": "38745100",
+    "category": "spatial",
+    "species": "Zea mays",
+    "evidence": "Stereo-seq and scRNA-seq of developing ear primordium; 12 cell types. Measured multi-timepoint sampling not established",
+    "primary_url": "https://www.nature.com/articles/s41477-024-01683-2",
+    "title": "A spatial transcriptome map of the developing maize ear",
+    "first_publication_date": "2024-05-14",
+    "doi": "10.1038/s41477-024-01683-2",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38745100/",
+    "date": "2024-05-14",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38745100/",
+      "https://www.nature.com/articles/s41477-024-01683-2"
+    ],
+    "year": 2024
+  },
+  {
+    "pmid": "38794796",
+    "category": "time",
+    "species": "Arachis hypogaea",
+    "evidence": "snRNA-seq and snATAC-seq at three separately sampled pod stages: aerial peg; subterranean peg 2–3 days after soil entry; expanded pod about 4–7 days after soil entry. Marker in situ validation alone is not counted as spatial transcriptomics",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38794796/",
+    "date": "2024-05-24",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38794796/"
+    ],
+    "title": "Single-nucleus RNA and ATAC sequencing analyses provide molecular insights into early pod development of peanut fruit",
+    "year": 2024,
+    "doi": "10.1016/j.xplc.2024.100979",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38794796/"
+  },
+  {
+    "category": "spatial, time",
+    "year": 2024,
+    "title": "Single-cell transcriptome atlases of soybean root and mature nodule reveal new regulatory programs that control the nodulation process",
+    "pmid": "38845198",
+    "date": "2024-06-06",
+    "species": "Glycine max",
+    "evidence": "snRNA-seq nodules at 12,14,21,28 days post inoculation. Molecular Cartography in situ mapping root/nodule sections with marker gene panels",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11369782/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38845198/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11369782/"
+    ],
+    "doi": "10.1016/j.xplc.2024.100984",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38845198/"
+  },
+  {
+    "pmid": "38848718",
+    "category": "spatial, time",
+    "species": "Oryza sativa",
+    "evidence": "Stereo-seq with single-cell segmentation and scRNA-seq; embryos at 6,24,36,48h after imbibition",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S1534580724003344",
+    "title": "Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination",
+    "first_publication_date": "2024-06-06",
+    "doi": "10.1016/j.devcel.2024.05.016",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38848718/",
+    "date": "2024-06-06",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/38848718/",
+      "https://www.sciencedirect.com/science/article/pii/S1534580724003344",
+      "https://db.cngb.org/stomics/project/STT0000049/spatialGeneExpression"
+    ],
+    "year": 2024
+  },
+  {
+    "pmid": "39140996",
+    "category": "spatial, time",
+    "species": "Phyllostachys edulis",
+    "evidence": "Single-nucleus RNA-seq and 10x spatial transcriptomics across three sampled early bamboo-shoot developmental stages, including longitudinal and transverse tissue sections.",
+    "primary_url": "https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20059",
+    "title": "Spatiotemporal transcriptome atlas reveals gene regulatory patterns during the organogenesis of the rapid growing bamboo shoots",
+    "first_publication_date": "2024-08-14",
+    "doi": "10.1111/nph.20059",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39140996/",
+    "date": "2024-08-14",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39140996/",
+      "https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.20059"
+    ],
+    "year": 2024
+  },
+  {
+    "category": "time",
+    "year": 2024,
+    "title": "Establishment of single-cell transcriptional states during seed germination",
+    "pmid": "39256563",
+    "date": "2024-09-10",
+    "species": "Arabidopsis thaliana",
+    "evidence": "scRNA-seq germinating embryos at 12,24,48 h post stratification, supported by primary figure1 and methods",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39256563/",
+    "evidence_url": "https://www.nature.com/articles/s41477-024-01771-3",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39256563/",
+      "https://www.nature.com/articles/s41477-024-01771-3"
+    ],
+    "doi": "10.1038/s41477-024-01771-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39256563/"
+  },
+  {
+    "pmid": "39567684",
+    "year": 2024,
+    "first_online": "2024-11-20",
+    "title": "Exaptation of ancestral cell-identity networks enables C4 photosynthesis",
+    "tag": "time",
+    "species": "Oryza sativa; Sorghum bicolor",
+    "evidence": "Single-nucleus RNA atlas through measured de-etiolation time course: 0, 0.5, 1, 2, 4, 6, 8, 12, 48 h after light exposure; snATAC at 0 and 12 h. 190,569 rice and 265,701 sorghum nuclei. Data GSE248919",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39567684/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11618092/",
+      "https://www.nature.com/articles/s41586-024-08204-3"
+    ],
+    "doi": "10.1038/s41586-024-08204-3",
+    "category": "time",
+    "date": "2024-11-20",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39567684/"
+  },
+  {
+    "category": "time",
+    "year": 2024,
+    "title": "Integrating single nuclei and bulk RNA sequencing in rice shoot apical meristems uncovers candidate early floral transition gene networks",
+    "pmid": "39609296",
+    "date": "2024-11-29",
+    "species": "Oryza sativa",
+    "evidence": "Supplementary methods pages1–4 confirm snRNA of shoot apices after 0,5,9,13 days short-day induction. Samples are barcoded separately and aggregated by timepoint for comparison with bulk. Journal issue2025, first online2024",
+    "url": "https://link.springer.com/article/10.1007/s00497-024-00514-w",
+    "evidence_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1007%2Fs00497-024-00514-w/MediaObjects/497_2024_514_MOESM1_ESM.pdf",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39609296/",
+      "https://link.springer.com/article/10.1007/s00497-024-00514-w",
+      "https://media.springernature.com/original/springer-static/esm/art%3A10.1007%2Fs00497-024-00514-w/MediaObjects/497_2024_514_MOESM1_ESM.pdf"
+    ],
+    "doi": "10.1007/s00497-024-00514-w",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39609296/"
+  },
+  {
+    "pmid": "39742806",
+    "category": "spatial, time",
+    "species": "Glycine max",
+    "evidence": "snRNA-seq/scATAC across ten tissues, Visium matching root/hypocotyl and three seed developmental stages. First online 2024-12-31, journal issue 2025",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136577/",
+    "title": "A spatially resolved multi-omic single-cell atlas of soybean development",
+    "first_publication_date": "2024-12-31",
+    "doi": "10.1016/j.cell.2024.10.050",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39742806/",
+    "date": "2024-12-31",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39742806/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136577/"
+    ],
+    "year": 2024
+  },
+  {
+    "pmid": "39779856",
+    "category": "spatial, time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Time-resolved snMultiome and MERFISH map immune responses; PRIMER cell state",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11798839/",
+    "title": "A rare PRIMER cell state in plant immunity",
+    "first_publication_date": "2025-01-08",
+    "doi": "10.1038/s41586-024-08383-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39779856/",
+    "date": "2025-01-08",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39779856/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11798839/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "39824817",
+    "category": "spatial",
+    "species": "Zea mays",
+    "evidence": "Single-cell RNA-seq of 11,459 protoplasts and eight Visium sections, all from Stage 1 embryos, with organ-specific LCM RNA maps. The multi-stage embryo series is bulk LCM RNA-seq and does not earn a single-cell time label.",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11742662/",
+    "title": "Multiplexed transcriptomic analyzes of the plant embryonic hourglass",
+    "first_publication_date": "2025-01-18",
+    "doi": "10.1038/s41467-024-55803-9",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39824817/",
+    "date": "2025-01-18",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39824817/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11742662/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "39833150",
+    "category": "spatial, time",
+    "species": "Gossypium hirsutum",
+    "evidence": "scRNA-seq plus Visium and spatial metabolomics. Spatial stages -1.5,-1,0,1,3,5 DPA; scRNA -1.5 to 1DPA",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11746981/",
+    "title": "Spatiotemporal transcriptome and metabolome landscapes of cotton fiber during initiation and early development",
+    "first_publication_date": "2025-01-20",
+    "doi": "10.1038/s41467-025-55869-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39833150/",
+    "date": "2025-01-20",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39833150/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11746981/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "39833155",
+    "category": "spatial, time",
+    "species": "Gossypium hirsutum",
+    "evidence": "scRNA-seq plus Visium/metabolomics of nonembryogenic callus, globular, torpedo and cotyledonary embryos; genuine sampled development stages",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/39833155/",
+    "title": "Spatiotemporal transcriptome and metabolome landscapes of cotton somatic embryos",
+    "first_publication_date": "2025-01-20",
+    "doi": "10.1038/s41467-025-55870-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39833155/",
+    "date": "2025-01-20",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39833155/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11747644/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "39893633",
+    "category": "spatial",
+    "species": "Triticum aestivum",
+    "evidence": "scRNA-seq atlas of soil-grown roots validated with untargeted spatial transcriptomics (Stereo-seq)",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11860762/",
+    "title": "A single-cell and spatial wheat root atlas with cross-species annotations delineates conserved tissue-specific marker genes and regulators",
+    "first_publication_date": "2025-02-01",
+    "doi": "10.1016/j.celrep.2025.115240",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39893633/",
+    "date": "2025-02-01",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/39893633/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11860762/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "40084712",
+    "category": "spatial, time",
+    "species": "Gossypium hirsutum",
+    "evidence": "Spatial ovule maps -1,0,1 DPA plus scRNA-seq; fiber initiation",
+    "primary_url": "https://onlinelibrary.wiley.com/doi/10.1111/tpj.70064",
+    "title": "Spatial transcriptome and single-cell RNA sequencing reveal the molecular basis of cotton fiber initiation development",
+    "first_publication_date": "2025-03-01",
+    "doi": "10.1111/tpj.70064",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40084712/",
+    "date": "2025-03-01",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40084712/",
+      "https://onlinelibrary.wiley.com/doi/10.1111/tpj.70064"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "40123572",
+    "category": "spatial, time",
+    "species": "Oryza sativa",
+    "evidence": "snRNA-seq mock,24hpi,48hpi; spatial6hpi,12hpi,24hpi across Magnaporthe infection progression",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12097076/",
+    "title": "Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice Leaf Cells to Magnaporthe oryzae Infection",
+    "first_publication_date": "2025-03-24",
+    "doi": "10.1002/advs.202416846",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40123572/",
+    "date": "2025-03-24",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40123572/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12097076/"
+    ],
+    "year": 2025
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "An Arabidopsis single-nucleus atlas decodes leaf senescence and nutrient allocation",
+    "pmid": "40220755",
+    "date": "2025-04-11",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Over one million nuclei from 20 tissues encompassing multiple developmental stages, explicitly time-resolved leaf senescence sampling in abstract",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40220755/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40220755/"
+    ],
+    "doi": "10.1016/j.cell.2025.03.024",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40220755/"
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "Resolving floral development dynamics using genome and single-cell temporal transcriptome of Dendrobium devonianum",
+    "pmid": "40238860",
+    "date": "2025-04-16",
+    "species": "Dendrobium devonianum",
+    "evidence": "31,511 cells across three actual sampled stages S1 early bud~0.2cm; S6 midbud~0.9cm fringe initiation; S15 fully open flowers. Primary methods lines452",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70094",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40238860/",
+      "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70094"
+    ],
+    "doi": "10.1111/pbi.70094",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40238860/"
+  },
+  {
+    "pmid": "40307555",
+    "category": "spatial",
+    "species": "Oryza sativa",
+    "evidence": "Rice scRNA-seq + Molecular Cartography (smFISH); gel/soil and compaction comparisons, measured time course not established",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12176638/",
+    "title": "Single-cell transcriptomics reveal how root tissues adapt to soil stress",
+    "first_publication_date": "2025-04-30",
+    "doi": "10.1038/s41586-025-08941-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40307555/",
+    "date": "2025-04-30",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40307555/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12176638/"
+    ],
+    "year": 2025
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis",
+    "pmid": "40324996",
+    "date": "2025-05-05",
+    "species": "Arabidopsis thaliana",
+    "evidence": "snRNA-seq seedlings 13 points at 4h intervals over 48h, and 12 points at 2h intervals over 24h",
+    "url": "https://www.nature.com/articles/s41467-025-59424-8",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40324996/",
+      "https://www.nature.com/articles/s41467-025-59424-8"
+    ],
+    "doi": "10.1038/s41467-025-59424-8",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40324996/"
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "Time-resolved single-cell atlas identifies the spatiotemporal transcription dynamics in vernalization response in Brassica rapa",
+    "pmid": "40378040",
+    "date": "2025-05-15",
+    "species": "Brassica rapa ssp. pekinensis",
+    "evidence": "58,282 scRNA transcriptomes at nonvernalized and weeks1,2,3,4 of cold treatment (NV,V1,V2,V3,V4); primary figure2",
+    "url": "https://www.cell.com/action/showPdf?pii=S2211124725004966",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40378040/",
+      "https://www.cell.com/action/showPdf?pii=S2211124725004966"
+    ],
+    "doi": "10.1016/j.celrep.2025.115725",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40378040/"
+  },
+  {
+    "pmid": "40701155",
+    "category": "spatial",
+    "species": "Populus",
+    "evidence": "scRNA-seq normal,tension,opposite xylem, validated by spatial transcriptomics+metabolomics. No measured temporal sampling established",
+    "primary_url": "https://doi.org/10.1016/j.devcel.2025.06.038",
+    "title": "Single-cell and spatial multiomics identifies heterogeneous xylem development driven by mechanical stress in Populus",
+    "first_publication_date": "2025-07-22",
+    "doi": "10.1016/j.devcel.2025.06.038",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40701155/",
+    "date": "2025-07-22",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40701155/",
+      "https://doi.org/10.1016/j.devcel.2025.06.038"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "40749217",
+    "category": "time",
+    "species": "Physcomitrium patens",
+    "evidence": "snRNA-seq and snATAC-seq of untreated tissue and post-wounding windows 3–6 h, 10–14 h and 24–36 h. The last window was pooled with one-week protonemata; time windows are pooled snapshots, not continuous cell tracking",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12316476/",
+    "date": "2025-08-01",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40749217/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12316476/"
+    ],
+    "title": "STEMIN transcription factor drives selective chromatin remodeling for gene activation within a relaxed chromatin during reprogramming in the moss Physcomitrium patens",
+    "year": 2025,
+    "doi": "10.1111/tpj.70386",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40749217/"
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway plays an important role in leaf senescence in tobacco",
+    "pmid": "40764913",
+    "date": "2025-08-06",
+    "species": "Nicotiana tabacum",
+    "evidence": "Single-cell RNA-seq of 17,100 cells from mature and senescent leaves on three-month-old plants. Two independently sampled ageing stages; elapsed leaf ages were not specified.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12326597/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40764913/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12326597/"
+    ],
+    "doi": "10.1186/s12870-025-07051-2",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40764913/"
+  },
+  {
+    "pmid": "40830271",
+    "category": "spatial, time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "snRNA-seq and paired spatial transcriptomics across ten actual developmental timepoints; seed, seedlings, rosettes, stem, flowers, siliques",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12416547/",
+    "title": "A single-cell, spatial transcriptomic atlas of the Arabidopsis life cycle",
+    "first_publication_date": "2025-08-19",
+    "doi": "10.1038/s41477-025-02072-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40830271/",
+    "date": "2025-08-19",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40830271/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12416547/"
+    ],
+    "year": 2025
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "Single-nucleus RNA-sequencing reveals the cellular programs driving nematode-induced giant cell formation in tomato",
+    "pmid": "41209832",
+    "date": "2025-08-22",
+    "species": "Solanum lycopersicum",
+    "evidence": "Single-nucleus RNA-seq of 35,393 nuclei in four libraries: galls and nearby root controls at five and ten days post-inoculation.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12596086/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41209832/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12596086/"
+    ],
+    "doi": "10.1093/hr/uhaf223",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41209832/"
+  },
+  {
+    "pmid": "40883303",
+    "category": "spatial, time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "snRNA-seq compares the end-of-drought state with 15 minutes after rehydration, with well-watered and irrigation controls; MERFISH localizes cell states. This is a sparse pre/post-rehydration comparison; the denser 15-minute to six-hour series uses bulk RNA-seq.",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12397292/",
+    "title": "Drought recovery in plants triggers a cell-state-specific immune activation",
+    "first_publication_date": "2025-08-29",
+    "doi": "10.1038/s41467-025-63467-2",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40883303/",
+    "date": "2025-08-29",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40883303/",
+      "https://www.nature.com/articles/s41467-025-63467-2",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12397292/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "40886050",
+    "category": "time",
+    "species": "Glycine max",
+    "evidence": "Single-nucleus RNA/ATAC multiome at proembryo (2–3 DAP), cotyledon (12–15 DAP), and early maturation (20–22 DAP) stages, under normal and drought conditions",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40886050/",
+    "date": "2025-08-29",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40886050/"
+    ],
+    "title": "Single-nucleus multi-omics reveals the impact of drought stress on the development of soybean endosperm",
+    "year": 2025,
+    "doi": "10.1016/j.xplc.2025.101495",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40886050/"
+  },
+  {
+    "pmid": "41019740",
+    "category": "spatial, time",
+    "species": "Glycine max",
+    "evidence": "snRNA at 1,3,5 DPI; Visium at 4 and 7 DPI after Phakopsora infection",
+    "primary_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1637176/full",
+    "title": "Spatial and single-cell transcriptomics capture two distinct cell states in soybean defense response to Phakopsora pachyrhizi infection",
+    "first_publication_date": "2025-09-11",
+    "doi": "10.3389/fpls.2025.1637176",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41019740/",
+    "date": "2025-09-11",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41019740/",
+      "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1637176/full"
+    ],
+    "year": 2025
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "Single-cell RNA sequencing reveals developmental trajectories and environmental regulation of callus formation in Arabidopsis",
+    "pmid": "40938467",
+    "date": "2025-09-12",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Actual scRNA-seq of leaf/root-derived initial callus, proliferating callus, and greening callus (6 samples total,3 stages per explant). Chronological day-to-sample mapping not perfectly explicit but physical stages verified",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12431987/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40938467/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12431987/"
+    ],
+    "doi": "10.1007/s44154-025-00255-4",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40938467/"
+  },
+  {
+    "pmid": "40961939",
+    "category": "spatial, time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Time-course single-nucleus RNA-seq and live imaging, integrated with spatial laser-capture microdissection RNA-seq during LEC2-mediated somatic embryo reprogramming.",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/40961939/",
+    "title": "Time-resolved reprogramming of single somatic cells into totipotent states during plant regeneration",
+    "first_publication_date": "2025-09-16",
+    "doi": "10.1016/j.cell.2025.08.031",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40961939/",
+    "date": "2025-09-16",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/40961939/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "41109686",
+    "category": "spatial",
+    "species": "Cunninghamia lanceolata",
+    "evidence": "scRNA-seq of conifer xylem plus spatial transcriptomics/proteomics/metabolomics. Cross-species evolutionary change is not real-time course",
+    "primary_url": "https://doi.org/10.1093/plcell/koaf253",
+    "title": "Single-cell and spatial omics reveal progressive loss of xylem developmental complexity across seed plants",
+    "first_publication_date": "2025-10-01",
+    "doi": "10.1093/plcell/koaf253",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41109686/",
+    "date": "2025-10-01",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41109686/",
+      "https://doi.org/10.1093/plcell/koaf253"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "41084016",
+    "category": "spatial, time",
+    "species": "Triticum turgidum",
+    "evidence": "scRNA-seq plus Molecular Cartography smFISH across wheat spike W1.5,W2.5,W3.5 stages (single-cell W2.5/W3.5)",
+    "primary_url": "https://link.springer.com/article/10.1186/s13059-025-03811-3",
+    "title": "Spatial and single-cell expression analyses reveal complex expression domains in early wheat spike development",
+    "first_publication_date": "2025-10-13",
+    "doi": "10.1186/s13059-025-03811-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41084016/",
+    "date": "2025-10-13",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41084016/",
+      "https://link.springer.com/article/10.1186/s13059-025-03811-3"
+    ],
+    "year": 2025
+  },
+  {
+    "category": "time",
+    "year": 2025,
+    "title": "The role of FRUITFULL controlling cell cycle during early flower development revealed by time-series snRNA-seq experiments",
+    "pmid": "41146337",
+    "date": "2025-10-27",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Single-nucleus RNA-seq of synchronized AP1-GR flowers at 0, 2, 4 and 8 days after dexamethasone induction.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12557869/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41146337/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12557869/"
+    ],
+    "doi": "10.1186/s13059-025-03831-z",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41146337/"
+  },
+  {
+    "pmid": "41388990",
+    "category": "spatial, time",
+    "species": "Triticum aestivum",
+    "evidence": "MERFISH 200 genes at cellular resolution across 4 actual development stages. First online 2025-12-13, issue 2026",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/41388990/",
+    "title": "Spatial transcriptomics reveals expression gradients in developing wheat inflorescences at cellular resolution",
+    "first_publication_date": "2026-01-01",
+    "doi": "10.1093/plcell/koaf282",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41388990/",
+    "date": "2025-12-13",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41388990/"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "41410774",
+    "category": "spatial, time",
+    "species": "Phyllostachys edulis",
+    "evidence": "snRNA-seq+spatial across initial division,rapid division,rapid elongation stages of intercalary meristem",
+    "primary_url": "https://doi.org/10.1073/pnas.2511701122",
+    "title": "Single-nucleus and spatial transcriptomics reveal the cell populations of intercalary meristems in bamboo",
+    "first_publication_date": "2025-12-18",
+    "doi": "10.1073/pnas.2511701122",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41410774/",
+    "date": "2025-12-18",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41410774/",
+      "https://doi.org/10.1073/pnas.2511701122"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "41437568",
+    "category": "spatial, time",
+    "species": "Triticum aestivum",
+    "evidence": "Spatial transcriptomes across 5 wheat spike stages plus W3.5 snRNA-seq. First online 2025-12-23, issue 2026",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S1674205225004502",
+    "title": "A single-cell-resolution spatial transcriptomic atlas decodes wheat spike development and yield potential",
+    "first_publication_date": "2025-12-23",
+    "doi": "10.1016/j.molp.2025.12.020",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41437568/",
+    "date": "2025-12-23",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41437568/",
+      "https://www.sciencedirect.com/science/article/pii/S1674205225004502"
+    ],
+    "year": 2025
+  },
+  {
+    "pmid": "41495460",
+    "category": "spatial, time",
+    "species": "Solanum tuberosum",
+    "evidence": "Stereo-seq single-cell segmented potato leaf atlas 3,6,12,24 hpi with time-matched mocks",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/41495460/",
+    "title": "Host microenvironment in potato-Phytophthora infestans interaction revealed by single-cell spatiotemporal transcriptome",
+    "first_publication_date": "2026-01-06",
+    "doi": "10.1038/s41477-025-02181-9",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41495460/",
+    "date": "2026-01-06",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41495460/"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "41493197",
+    "category": "spatial",
+    "species": "Zea mays",
+    "evidence": "Visium serial sections of SAME seedling SAM/P1-P5 leaf primordia integrated with public scRNA using Seurat anchors/SPOTlight. Positional leaf stages not chronological course",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13110159/",
+    "title": "Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Development",
+    "first_publication_date": "2026-01-06",
+    "doi": "10.1111/pbi.70515",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41493197/",
+    "date": "2026-01-06",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41493197/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13110159/"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "41501532",
+    "category": "spatial",
+    "species": "Hordeum vulgare",
+    "evidence": "scRNA-seq W3.5 spikes plus Molecular Cartography smFISH segmented cells (vegetative SAM and inflorescence). Most developmental progression is positional apical-basal primordium gradient; conservative spatial-only",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830361/",
+    "title": "Imputation integrates single-cell and spatial gene expression data to resolve transcriptional networks in barley shoot meristem development",
+    "first_publication_date": "2026-01-07",
+    "doi": "10.1038/s41477-025-02176-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41501532/",
+    "date": "2026-01-07",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41501532/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830361/"
+    ],
+    "year": 2026
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Single-cell transcriptomic analysis of plant quiescent center by third-generation sequencing reveals developmental trajectories",
+    "pmid": "41664205",
+    "date": "2026-02-09",
+    "species": "Arabidopsis thaliana; Oryza sativa comparison",
+    "evidence": "Single-cell long-read RNA-seq of isolated QC cells at 5 and 10 days after germination; abstract",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41664205/",
+    "doi": "10.1186/s13059-026-03989-0",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41664205/"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41664205/"
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Cell fate acquisition at a de novo developmental boundary in the maize leaf",
+    "pmid": "41746728",
+    "date": "2026-02-26",
+    "species": "Zea mays",
+    "evidence": "scRNA-seq protoplasts independently sampled from Early-Fringe, Mid-Fringe, Late-Mid-Fringe blade-sheath boundary stages. Also lineage mapping and confocal morphometry",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41746728/",
+    "evidence_url": "https://doi.org/10.1073/pnas.2533591123",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41746728/",
+      "https://doi.org/10.1073/pnas.2533591123"
+    ],
+    "doi": "10.1073/pnas.2533591123",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41746728/"
+  },
+  {
+    "pmid": "41831752",
+    "category": "time",
+    "species": "Glycine max",
+    "evidence": "snRNA-seq of anthers collected in five bud-length groups spanning 1–5 mm; sampled stages span pollen mother cells to bicellular microspores. Developmental stage series, not elapsed-time tracking",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1673852726000767",
+    "date": "2026-03-12",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41831752/",
+      "https://www.sciencedirect.com/science/article/pii/S1673852726000767"
+    ],
+    "title": "A single-nucleus transcriptome atlas of soybean anthers",
+    "year": 2026,
+    "doi": "10.1016/j.jgg.2026.03.006",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41831752/"
+  },
+  {
+    "pmid": "41837846",
+    "category": "spatial, time",
+    "species": "Zea mays",
+    "evidence": "snRNA-seq+spatial leaves at 24 and48hpi with Puccinia polysora",
+    "primary_url": "https://doi.org/10.1002/advs.202512295",
+    "title": "Integrated Single-Cell and Spatial Transcriptomics Reveal Cell-Type-Specific Immune Regulatory Networks in Maize Responding to Southern Corn Rust",
+    "first_publication_date": "2026-03-16",
+    "doi": "10.1002/advs.202512295",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41837846/",
+    "date": "2026-03-16",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41837846/",
+      "https://doi.org/10.1002/advs.202512295"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "41851888",
+    "category": "time",
+    "species": "Zea mays",
+    "evidence": "scRNA-seq of shoot apical meristems at 14, 22 and 26 days after sowing. Bulk RNA time course is denser, but only these three times are single-cell sampled",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13112620/",
+    "date": "2026-03-18",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41851888/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13112620/"
+    ],
+    "title": "Dynamic and cell-type specific transcriptional reprogramming underlies the floral transition in the maize shoot apical meristem",
+    "year": 2026,
+    "doi": "10.1186/s13059-026-04033-x",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41851888/"
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Stress drives plasticity in leaf ageing transcriptional dynamics in Arabidopsis thaliana",
+    "pmid": "41857406",
+    "date": "2026-03-19",
+    "species": "Arabidopsis thaliana",
+    "evidence": "1,226 leaves, approximately 1 million nuclei across ageing/drought. Figure1: 647 leaves spanning 15 leaf stages over 9-day course at single-nucleus resolution",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41857406/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41857406/"
+    ],
+    "doi": "10.1038/s41477-026-02254-3",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41857406/"
+  },
+  {
+    "pmid": "41866110",
+    "category": "spatial",
+    "species": "Populus alba var. pyramidalis",
+    "evidence": "snRNA-seq and Stereo-seq of leaves from two-month-old plantlets; polarity and cuticle",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S1673852726001037",
+    "title": "A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the regulation of leaf polarity and cuticle deposition",
+    "first_publication_date": "2026-03-20",
+    "doi": "10.1016/j.jgg.2026.03.015",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41866110/",
+    "date": "2026-03-20",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41866110/",
+      "https://www.sciencedirect.com/science/article/pii/S1673852726001037"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "41882557",
+    "category": "time",
+    "species": "Oryza sativa",
+    "evidence": "Separate scRNA-seq of embryonic callus after two weeks induction plus seven days subculture, and differentiated callus after seven additional days on differentiation medium. Two sampled culture stages, not a dense time series",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13141360/",
+    "date": "2026-03-25",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41882557/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13141360/"
+    ],
+    "title": "A single-cell transcriptome atlas reveals the transcriptionally earliest state in rice callus",
+    "year": 2026,
+    "doi": "10.1186/s12870-026-08596-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41882557/"
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration",
+    "pmid": "41889170",
+    "date": "2026-03-25",
+    "species": "Arabidopsis thaliana",
+    "evidence": "scRNA-seq in uncut and 4,9,14,24,36h post-cut roots; full text line170. Also single-cell RNA/ATAC multiome",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13180275/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41889170/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13180275/"
+    ],
+    "doi": "10.1016/j.molp.2026.03.013",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41889170/"
+  },
+  {
+    "pmid": "41947460",
+    "category": "spatial, time",
+    "species": "Hylocereus undatus (Selenicereus undatus)",
+    "evidence": "scRNA-seq compares fresh mature fruit with untreated and TAP4-treated fruit after 12 days of storage; Visium and RNA-FISH provide spatial annotation. A sparse storage-age comparison.",
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589556/",
+    "title": "Single-cell and spatial transcriptomics reveals the spatiotemporal trajectory of the small peptide TAP4 in delaying postharvest fruit senescence",
+    "first_publication_date": "2026-04-07",
+    "doi": "10.1016/j.xplc.2026.101846",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41947460/",
+    "date": "2026-04-07",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41947460/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589556/"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42021342",
+    "category": "spatial",
+    "species": "Phragmites australis",
+    "evidence": "scRNA-seq+spatial common garden shoots from European and North American populations",
+    "primary_url": "https://doi.org/10.1186/s13059-026-04079-x",
+    "title": "Single-cell and spatial transcriptomics in Phragmites australis reveal the association of B chromosomes with plant invasiveness",
+    "first_publication_date": "2026-04-22",
+    "doi": "10.1186/s13059-026-04079-x",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42021342/",
+    "date": "2026-04-22",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42021342/",
+      "https://doi.org/10.1186/s13059-026-04079-x"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42086737",
+    "category": "spatial, time",
+    "species": "Capsicum annuum",
+    "evidence": "332468 nuclei across 57 samples spanning seedlings to mature fruits, integrated spatial transcriptomics",
+    "primary_url": "https://www.nature.com/articles/s41477-026-02293-w",
+    "title": "Laminar patterning transcription factors orchestrate spatial metabolite partitioning in Capsicum fruit",
+    "first_publication_date": "2026-05-05",
+    "doi": "10.1038/s41477-026-02293-w",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42086737/",
+    "date": "2026-05-05",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42086737/",
+      "https://www.nature.com/articles/s41477-026-02293-w"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42160834",
+    "category": "spatial",
+    "species": "Triticum aestivum",
+    "evidence": "Single-nucleus RNA-seq integrated with spatial transcriptomics at a single milk stage, 25 days after flowering. Multiple chronological single-cell samples were not established.",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0981942826003621",
+    "title": "Single-cell and spatial transcriptomics reveal the regulatory continuum from initial substrates to storage compounds during wheat grain development",
+    "first_publication_date": "2026-05-14",
+    "doi": "10.1016/j.plaphy.2026.111376",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42160834/",
+    "date": "2026-05-14",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42160834/",
+      "https://www.sciencedirect.com/science/article/pii/S0981942826003621"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42141722",
+    "category": "spatial, time",
+    "species": "Solanum lycopersicum",
+    "evidence": "Super-resolution multimodal spatial transcriptomics ~1.2m cells during shoot regeneration from wounding to organogenesis. Published successor to bioRxiv Feb2026",
+    "primary_url": "https://doi.org/10.1016/j.molp.2026.05.008",
+    "title": "Super-resolution multimodal spatial transcriptomics reveals an ovoid stem cell niche structuring de novo shoot regeneration",
+    "first_publication_date": "2026-05-14",
+    "doi": "10.1016/j.molp.2026.05.008",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42141722/",
+    "date": "2026-05-14",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42141722/",
+      "https://doi.org/10.1016/j.molp.2026.05.008"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42168363",
+    "category": "time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "snRNA-seq of developing seeds at 3, 5 and 7 days after pollination, two biological replicates per time point. Targeted HCR validation is not counted as a spatial transcriptomic atlas",
+    "url": "https://www.nature.com/articles/s41477-026-02295-8",
+    "date": "2026-05-21",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42168363/",
+      "https://www.nature.com/articles/s41477-026-02295-8"
+    ],
+    "title": "A transcriptional atlas of early Arabidopsis seed development suggests mechanisms for inter-tissue coordination",
+    "year": 2026,
+    "doi": "10.1038/s41477-026-02295-8",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168363/"
+  },
+  {
+    "pmid": "42304499",
+    "category": "spatial",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Single-cell and spatial RNA-seq compare drmy1-mutant and wild-type early sepal tissues. A chronological single-cell course was not established.",
+    "primary_url": "https://doi.org/10.1186/s13059-026-04156-1",
+    "title": "Spatial and single-cell transcriptomics uncover brassinosteroid-mediated coordination of sepal elongation in Arabidopsis",
+    "first_publication_date": "2026-06-17",
+    "doi": "10.1186/s13059-026-04156-1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42304499/",
+    "date": "2026-06-17",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42304499/",
+      "https://doi.org/10.1186/s13059-026-04156-1"
+    ],
+    "year": 2026
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Cell-type specific early perception of nine phytohormones revealed by single-nucleus transcriptomics in Arabidopsis",
+    "pmid": "42669725",
+    "date": "2026-07-31",
+    "species": "Arabidopsis thaliana",
+    "evidence": "snRNA-seq ~500,000 nuclei at 0.5h and 3h responses to 9 hormones, time-matched controls; abstract",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669725/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42669725/"
+    ],
+    "doi": "10.1038/s41467-026-76284-y",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42669725/"
+  },
+  {
+    "pmid": "42605496",
+    "category": "time",
+    "species": "Oryza sativa",
+    "evidence": "snRNA-seq of SJ2 caryopses at 3, 5 and 7 DAP, two replicates per stage; osbzr4 mutants at 3 and 5 DAP. Separate stage datasets documented in the primary data-availability statement",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/jipb.70373",
+    "date": "2026-08-17",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42605496/",
+      "https://onlinelibrary.wiley.com/doi/10.1111/jipb.70373"
+    ],
+    "title": "A single-nucleus transcriptomic atlas reveals distinct cell identities and key regulators of cellular differentiation during early rice seed development",
+    "year": 2026,
+    "doi": "10.1111/jipb.70373",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605496/"
+  },
+  {
+    "pmid": "42633702",
+    "category": "spatial",
+    "species": "Glycine max",
+    "evidence": "scRNA-seq plus 10x Visium, late maturity seeds WT vs FA9 knockout; one stage; first online 2026-08-23",
+    "primary_url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70750",
+    "title": "Single-Cell Transcriptomics Reveals the FA9-VAP Module Regulating Fatty Acid Accumulation in Soybean Seeds",
+    "first_publication_date": "2026-08-23",
+    "doi": "10.1111/pbi.70750",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42633702/",
+    "date": "2026-08-23",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42633702/",
+      "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70750"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42725656",
+    "category": "spatial",
+    "species": "Populus tremula x Populus alba",
+    "evidence": "Tangential single-cell-resolution spatial atlas with public scRNA references. Two-year time-series is bulk stem transcriptomes/anatomy, so time label not warranted for singlecell data",
+    "primary_url": "https://academic.oup.com/plcell/advance-article-abstract/doi/10.1093/plcell/koag275/8790456",
+    "title": "Tangential single-cell spatial transcriptomics resolves early ray lineage trajectory in poplar",
+    "first_publication_date": "2026-09-01",
+    "doi": "10.1093/plcell/koag275",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42725656/",
+    "date": "2026-09-01",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42725656/",
+      "https://academic.oup.com/plcell/advance-article-abstract/doi/10.1093/plcell/koag275/8790456"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42827106",
+    "category": "spatial, time",
+    "species": "Fragaria vesca",
+    "evidence": "Spatial transcriptomics + snRNA-seq + spatial metabolomics sampled postfertilization, fruit set, enlargement stages",
+    "primary_url": "https://doi.org/10.1038/s41467-026-77874-6",
+    "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development",
+    "first_publication_date": "2026-09-23",
+    "doi": "10.1038/s41467-026-77874-6",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42827106/",
+    "date": "2026-09-23",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42827106/",
+      "https://doi.org/10.1038/s41467-026-77874-6"
+    ],
+    "year": 2026
+  },
+  {
+    "category": "time",
+    "year": 2026,
+    "title": "Single-nucleus transcriptome atlas of Brassica developing seeds provides cellular and molecular insights into embryo abortion in interspecific hybrids",
+    "pmid": "42823797",
+    "date": "2026-10-01",
+    "species": "Brassica rapa (B. campestris) ssp. chinensis; B. oleracea crosses",
+    "evidence": "Abstract explicitly time-series snRNA-seq on developing seeds of interspecific versus intraspecific crosses",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823797/",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42823797/"
+    ],
+    "doi": "10.1016/j.molp.2026.09.016",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42823797/"
+  },
+  {
+    "pmid": "42848931",
+    "category": "spatial, time",
+    "species": "Arabidopsis thaliana",
+    "evidence": "Single-nucleus RNA-seq after mitochondrial-inhibitor treatment at 1, 3, 6 and 12 hours, integrated with a 465-probe Xenium spatial RNA panel.",
+    "primary_url": "https://academic.oup.com/plcell/article/38/10/koag308/8885782",
+    "title": "Spatial and single-nucleus transcriptomic profiling reveal polarity and intracellular responses to mitochondrial dysfunction",
+    "first_publication_date": "2026-10-05",
+    "doi": "10.1093/plcell/koag308",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848931/",
+    "date": "2026-10-05",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42848931/",
+      "https://academic.oup.com/plcell/article/38/10/koag308/8885782"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42838048",
+    "category": "spatial, time",
+    "species": "Oryza sativa",
+    "evidence": "851725 nuclei+347640 Stereo-seq spatial bins; 10 organs and 61 stages from seed to seed",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0092867426011256",
+    "title": "A spatiotemporal lifecycle atlas decodes spatial coordination in rice",
+    "first_publication_date": "2026-10-06",
+    "doi": "10.1016/j.cell.2026.09.023",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42838048/",
+    "date": "2026-10-06",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42838048/",
+      "https://www.sciencedirect.com/science/article/pii/S0092867426011256"
+    ],
+    "year": 2026
+  },
+  {
+    "pmid": "42933868",
+    "category": "spatial, time",
+    "species": "Oryza sativa",
+    "evidence": "177820 nuclei + 60003 spatial spots across FOUR actual caryopsis developmental stages",
+    "primary_url": "https://doi.org/10.1093/plcell/koag320",
+    "title": "Single-nucleus and spatial transcriptomics reveal dynamic cell differentiation and storage product accumulation in rice endosperm",
+    "first_publication_date": "2026-10-26",
+    "doi": "10.1093/plcell/koag320",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933868/",
+    "date": "2026-10-26",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42933868/",
+      "https://doi.org/10.1093/plcell/koag320"
+    ],
+    "year": 2026
+  }
+]

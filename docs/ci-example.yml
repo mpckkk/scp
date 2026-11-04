@@ -1,0 +1,31 @@
+name: Checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest test_pipeline test_paperclip test_agent_mcp
+        working-directory: agent
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm run install:ci
+        working-directory: web
+      - run: npx tsc --noEmit
+        working-directory: web
+      - run: node --experimental-transform-types --test lib/plant-validation.test.mjs
+        working-directory: web
+      - run: npm run build
+        working-directory: web

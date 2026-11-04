@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `plant_papers_included_doi_unique` ON `plant_papers` (`doi`) WHERE "plant_papers"."status"='include' AND "plant_papers"."doi" IS NOT NULL AND "plant_papers"."doi"<>'';
