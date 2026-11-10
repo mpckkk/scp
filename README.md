@@ -2,7 +2,6 @@
 
 A plant single-cell literature workbench and reusable agent pipeline, inspired by the search/read workflow of [Paperclip](https://paperclip.gxl.ai/). This independent implementation uses Europe PMC and PubMed metadata; Paperclip access is optional.
 
-**Private web app:** https://plantcell-library.mpengchong.chatgpt.site
 
 ## What it does
 
